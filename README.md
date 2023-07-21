@@ -317,7 +317,7 @@ https://expressjs.com/en/starter/installing.html
 
 If we look into the `node_modules` folder in our working directory we can find the folders that belong to the internal/external modules that we've been using.  
 How could we **create** a module of our own from scratch? Let's say we have this function whose whole purpose is to just generate the day we're in in a nice readable format. 
-(For this example we'll be using the code from the *To Do List exercise in the EJS section*)
+(For this example we'll be using the code from the *[To Do List exercise in the EJS section](https://github.com/anasolomon/ejs-todolist)*)
 ```js
  var today = new Date();
 
